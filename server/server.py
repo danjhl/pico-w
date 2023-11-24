@@ -3,6 +3,7 @@ import socket
 import machine
 from time import sleep
 
+# For testing only THIS IS NOT SAFE!
 ssid = 'WIFI_ID_HERE'
 password = 'WIFI_PW_HERE'
 
